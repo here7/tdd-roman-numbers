@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TddRomanNumbersApplication {
+public class RomanNumbersApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TddRomanNumbersApplication.class, args);
+        SpringApplication.run(RomanNumbersApplication.class, args);
     }
 
 }
